@@ -129,7 +129,7 @@ Examples of analysis performed:
 
 ```bash
 pip install pandas numpy matplotlib seaborn plotly
-
+```
 ---
 
 ## 🎯 Project Goals
