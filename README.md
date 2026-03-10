@@ -162,5 +162,4 @@ Possible future enhancements:
 [![Kaggle](https://img.shields.io/badge/Kaggle-Maulik%20Gajera-20BEFF?style=for-the-badge\&logo=kaggle)](https://kaggle.com/maulikgajera)
 
 ---
-
-⭐ If you found this project helpful, consider **starring the repository**.
+💡 Read through the project to explore how data analysis can reveal meaningful insights from **FIFA player statistics**.
